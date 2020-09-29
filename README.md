@@ -1,2 +1,1 @@
-# Frontend-Job
-All tasks for frontend
+# Frontend Job to be completed soon
